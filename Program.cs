@@ -8,7 +8,7 @@ namespace EigenesProjekt_Petit_SiriguElisa
         {
             
             Random random = new Random();
-            int secretNumber = random.Next(1, 100);
+            int secretNumber = random.Next(1, 101);
 
             try
             {
